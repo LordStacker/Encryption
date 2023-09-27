@@ -1,0 +1,14 @@
+C:\Users\nicoe\OneDrive\Escritorio\Encryption\Encryption\bin\Debug\net8.0\Encryption.exe
+C:\Users\nicoe\OneDrive\Escritorio\Encryption\Encryption\bin\Debug\net8.0\Encryption.deps.json
+C:\Users\nicoe\OneDrive\Escritorio\Encryption\Encryption\bin\Debug\net8.0\Encryption.runtimeconfig.json
+C:\Users\nicoe\OneDrive\Escritorio\Encryption\Encryption\bin\Debug\net8.0\Encryption.dll
+C:\Users\nicoe\OneDrive\Escritorio\Encryption\Encryption\bin\Debug\net8.0\Encryption.pdb
+C:\Users\nicoe\OneDrive\Escritorio\Encryption\Encryption\obj\Debug\net8.0\Encryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicoe\OneDrive\Escritorio\Encryption\Encryption\obj\Debug\net8.0\Encryption.AssemblyInfoInputs.cache
+C:\Users\nicoe\OneDrive\Escritorio\Encryption\Encryption\obj\Debug\net8.0\Encryption.AssemblyInfo.cs
+C:\Users\nicoe\OneDrive\Escritorio\Encryption\Encryption\obj\Debug\net8.0\Encryption.csproj.CoreCompileInputs.cache
+C:\Users\nicoe\OneDrive\Escritorio\Encryption\Encryption\obj\Debug\net8.0\Encryption.dll
+C:\Users\nicoe\OneDrive\Escritorio\Encryption\Encryption\obj\Debug\net8.0\refint\Encryption.dll
+C:\Users\nicoe\OneDrive\Escritorio\Encryption\Encryption\obj\Debug\net8.0\Encryption.pdb
+C:\Users\nicoe\OneDrive\Escritorio\Encryption\Encryption\obj\Debug\net8.0\Encryption.genruntimeconfig.cache
+C:\Users\nicoe\OneDrive\Escritorio\Encryption\Encryption\obj\Debug\net8.0\ref\Encryption.dll
